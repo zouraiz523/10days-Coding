@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    padding:0;
+    background: #e91e63;
+    }
+    .col{
+         padding:10px;
+         cursor:pointer;
+    position: absolute;
+    font-family: Roboto;
+    text-align:center;
+    background:  #f2f2f2;
+    color: #030303;
+    width:400px;
+    border-radius:20px;
+    letter-spacing: 5px;
+    line-height: 32px;
+    height:32px;
+    top:50%;
+    left:50%;
+    margin-top:-15px;
+    margin-left:-200px;
+    font-size:12px;
+    box-shadow:0 0 20px rgba(0,0,0,0.3);
+    }
+    .dot{
+    position: absolute;
+    float:left;
+    width:20px;
+    height:20px;
+    background: #e91e63;
+    border-radius: 50%;
+    margin:5px;
+    margin-left: 20px;
+    }
+    .rgb{
+    float:right;
+         padding-right:20px;
+    }
